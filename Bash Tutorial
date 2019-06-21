@@ -1,0 +1,4 @@
+$ touch hello-world.rb
+/flatiron_school
+/flatiron_building
+$ ls -lah
